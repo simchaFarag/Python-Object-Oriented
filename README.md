@@ -1,2 +1,2 @@
-# Object Oriented simple exmple
+# Object Oriented simple example
 
