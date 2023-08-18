@@ -1,2 +1,2 @@
-# Object_Oriented_simple_exmple
-veriSoft
+# Object Oriented simple exmple
+
