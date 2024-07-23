@@ -1,2 +1,2 @@
-# Object Oriented simple example
+# Basic object oriented project in Python
 
